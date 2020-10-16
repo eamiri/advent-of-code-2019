@@ -1,4 +1,5 @@
 # Advent of Code - Day 1 Part 1
+
 import math
 
 with open('input1.dat', 'r') as massesFile:
